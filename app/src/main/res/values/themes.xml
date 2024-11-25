@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme for light mode -->
+    <style name="Base.Theme.LoginWithAnimation" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary Colors -->
+        <item name="colorPrimary">@color/navy</item>
+        <item name="colorPrimaryVariant">@color/navy</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+
+        <!-- Status Bar and Navigation Bar -->
+        <item name="android:statusBarColor">@color/navy</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">@color/white</item>
+    </style>
+
+    <style name="Theme.LoginWithAnimation" parent="Base.Theme.LoginWithAnimation" />
+</resources>

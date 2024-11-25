@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Distory</string>
+    <string name="signup">Register</string>
+    <string name="login">Login</string>
+    <string name="message_welcome_page">Are you confused about taking notes or capturing your memorable moments in Distory?</string>
+    <string name="title_welcome_page">Welcome to Distory</string>
+    <string name="title_signup_page">Complete your data below</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Enter your data first</string>
+    <string name="title_login_page">Lets create your own story </string>
+    <string name="name">Name</string>
+    <string name="message_main_page">Happy Learning at Dicoding.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Logout</string>
+    <string name="language_settings">Change Language</string>
+    <string name="logres">Don’t have an account yet? Register here</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="error_password">Password must be at least 8 characters</string>
+    <string name="normal_type">Normal</string>
+    <string name="error">Error</string>
+    <string name="failed_to_load_stories">Failed to load stories</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+
+</resources>

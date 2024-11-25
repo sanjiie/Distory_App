@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Distory</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Apakah kamu kebingungan untuk membuat catatan atau mengabadikan momen berkesanmu? di Distory aja</string>
+    <string name="title_welcome_page">Selamat datang di DiStory</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Ayo buat ceritamu sendiri </string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat Belajar di Dicoding.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="language_settings">Ganti Bahasa</string>
+    <string name="logres">Belum punya akun? Daftar sekarang</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="error_password">Password harus minimal 8 karakter</string>
+    <string name="error">Error</string>
+    <string name="failed_to_load_stories">Failed to load stories</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+
+</resources>
